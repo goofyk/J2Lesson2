@@ -1,7 +1,7 @@
 /**
  * @author Anton Gil
  * @version 0.1.1 dated Dec 23, 2017
- * @link https://github.com/goofyk/J2Lesson2Gil
+ * @link https://github.com/goofyk/J2Lesson2
  */
 
 // 1. Напишите метод, на вход которого подаётся двумерный строковый массив размером 4х4,
