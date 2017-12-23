@@ -36,8 +36,6 @@ class StringHandle{
                 throw new ArrayIndexOutOfBoundsException("Size of array from file is not correct");
             }
 
-//          sizeArr = Math.max(arrWidth, arrHeight);
-
             arrOfVal = new String[sizeArr][sizeArr];
 
             scan.close();

@@ -22,7 +22,7 @@ class J2Lesson2Gil{
         String[][] arrOfVal;
 
         // Static array for test
-//        String[][] arrOfVal = {{"1","2","3","4"},{"6","7","8","9"},{"11","12","13","14"},{"16","17","18","19"}};
+        //String[][] arrOfVal = {{"1","2","3","4"},{"6","7","8","9"},{"11","12","13","14"},{"16","17","18","19"}};
 
         try{
              // Reading array from file
